@@ -1,0 +1,7 @@
+{
+    "name": "w906_large_V1.1.bin",
+    "version": "V1.1",
+    "url": "https://zwiot.github.io/fota_V1.1.bin",
+    "update_message":"1.新增增量更新\n2.测试XXX\n3.xxx测试",
+    "md5": "BB10F872ABE50F2B2F292C10AA08063A"
+}
